@@ -1,1 +1,1 @@
-# scarface-panel
+# fightclub-panel
